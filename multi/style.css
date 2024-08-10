@@ -1,0 +1,35 @@
+
+*{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+body{
+    background-color:black;
+}
+h1{
+text-align: center;
+    font-size: 47px;
+    outline-style: solid;
+    color: chocolate;
+    font-weight: bolder;
+    width: 350px;
+    height: 60px;
+    margin-left: 350px;
+}
+.border{
+    border: 10px double chocolate;
+    width: fit-content;
+}
+.box1{
+ border: 2px solid rgb(227,193,111);
+ height: 65px;
+ width: 200px;
+ background-color: rgb(227,193,111);
+}
+.box2{
+    border: 2px solid  chocolate;
+    height:65px;
+    width: 200px;
+    background-color:rgb( 184,139,74); 
+}
